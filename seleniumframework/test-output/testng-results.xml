@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-11T20:21:03 IST" name="Suite1" finished-at="2023-03-11T20:21:24 IST" duration-ms="21121">
+    <groups>
+    </groups>
+    <test started-at="2023-03-11T20:21:03 IST" name="seleniumframework" finished-at="2023-03-11T20:21:24 IST" duration-ms="21121">
+      <class name="seleniumframework.Tests.StandAloneTest">
+        <test-method signature="submitOrder()[pri:0, instance:seleniumframework.Tests.StandAloneTest@3f191845]" started-at="2023-03-11T20:21:03 IST" name="submitOrder" finished-at="2023-03-11T20:21:19 IST" duration-ms="15743" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- submitOrder -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:seleniumframework.Tests.StandAloneTest@3f191845]" started-at="2023-03-11T20:21:19 IST" name="closeBrowser" finished-at="2023-03-11T20:21:24 IST" duration-ms="5299" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- seleniumframework.Tests.StandAloneTest -->
+    </test> <!-- seleniumframework -->
+  </suite> <!-- Suite1 -->
+</testng-results>
